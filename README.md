@@ -35,7 +35,7 @@ If you use this work, please cite:
   year         = {2026},
   month        = mar,
   note         = {Working paper, Version 1.0, March 26, 2026},
-  url          = {https://github.com/DenisTahsinoglou/imperium-stability-model/tahsinoglou-imperium-stability-model-2026.pdf}
+  url          = {https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.0/tahsinoglou-imperium-stability-model-2026.pdf}
 }
 ```
 
