@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata from this file."
+title: "A Stability Model of System Performance under Complexity and Uncertainty"
+authors:
+  - family-names: "Tahsinoglou"
+    given-names: "Denis"
+date-released: 2026-03-26
+version: "1.0.0"
+type: "article"
+abstract: "This paper introduces a unified analytical model of system performance under complexity and uncertainty, referred to as the Imperium Stability Model (ISM). It integrates value-generating and constraining factors, including operational units, reputation, synergy, execution, structural complexity, and uncertainty, into a single analytical structure."
+keywords:
+  - systems theory
+  - complexity
+  - uncertainty
+  - system performance
+  - stability model
+  - strategic management
+license: "CC-BY-4.0"
+repository-code: "https://github.com/DenisTahsinoglou/imperium-stability-model"
+url: "https://github.com/DenisTahsinoglou/imperium-stability-model"
