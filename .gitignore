@@ -1,12 +1,31 @@
-# LaTeX build files
+# LaTeX auxiliary files
 *.aux
-*.log
-*.out
-*.toc
-*.synctex.gz
+*.bbl
+*.bcf
+*.blg
 *.fdb_latexmk
 *.fls
+*.fmt
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
 
-# OS
+# Editor / OS
 .DS_Store
 Thumbs.db
+*.swp
+*.swo
+*~
+
+# Ignore PDFs by default
+*.pdf
+
+# Track official paper PDF
+!tahsinoglou-imperium-stability-model-2026.pdf
