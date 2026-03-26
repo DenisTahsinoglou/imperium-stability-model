@@ -9,7 +9,7 @@ Denis Tahsinoglou — Independent Researcher
 March 26, 2026
 
 📄 [Download Paper (PDF)](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.0/tahsinoglou-imperium-stability-model-2026.pdf)  
-Working Paper, Version 1.0
+Working Paper (Version 1.0)
 
 ## Abstract
 
