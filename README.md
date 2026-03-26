@@ -1,15 +1,40 @@
-# Imperium Stability Model
+# Imperium Stability Model (ISM)
 
 A conceptual model of system performance under complexity and uncertainty.
 
-## Paper
+## Latest release (v1.1)
 
 **A Stability Model of System Performance under Complexity and Uncertainty**  
-Denis Tahsinoglou — Independent Researcher  
+Denis Tahsinoglou - Independent Researcher  
 March 26, 2026
 
-📄 [Download Paper (PDF)](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.0/tahsinoglou-imperium-stability-model-2026.pdf)  
-Working Paper (Version 1.0)
+📄 [Download Working Paper (PDF)](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf)  
+This version (v1.1) includes a conceptual clarification of the term “Imperium” in the introduction without changing the model, equation, or core argumentation.
+
+## Releases
+
+- v1.1 (current): conceptual clarification of "Imperium"
+- v1.0: initial public release
+
+## Repository Structure
+
+```text
+/README.md
+/LICENSE
+/CITATION.cff
+/citation.bib
+
+/paper
+  /src
+    main.tex
+    references.bib
+  /pdf
+    tahsinoglou-imperium-stability-model-2026.pdf
+```
+
+* /paper/src contains the LaTeX source files
+* /paper/pdf contains the compiled working paper
+* citation.bib provides a ready-to-use citation entry
 
 ## Abstract
 
@@ -34,8 +59,8 @@ If you use this work, please cite:
   title        = {A Stability Model of System Performance under Complexity and Uncertainty},
   year         = {2026},
   month        = mar,
-  note         = {Working paper, Version 1.0, March 26, 2026},
-  url          = {https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.0/tahsinoglou-imperium-stability-model-2026.pdf}
+  note         = {Working paper, Version 1.1, March 26, 2026},
+  url          = {https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf}
 }
 ```
 

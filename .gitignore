@@ -27,5 +27,5 @@ Thumbs.db
 # Ignore PDFs by default
 *.pdf
 
-# Track official paper PDF
-!tahsinoglou-imperium-stability-model-2026.pdf
+# Track final paper PDF
+!paper/pdf/tahsinoglou-imperium-stability-model-2026.pdf
