@@ -1,16 +1,17 @@
 # Imperium Stability Model (ISM)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19253728.svg)](https://doi.org/10.5281/zenodo.19253728)
+
 A conceptual model of system performance under complexity and uncertainty.
 
 ## Latest release (v1.1)
 
 **A Stability Model of System Performance under Complexity and Uncertainty**  
-Denis Tahsinoglou - Independent Researcher  
+Denis Tahsinoglou — Independent Researcher  
 March 26, 2026
 
-DOI: https://doi.org/10.5281/zenodo.19253728
+📄 [Download PDF](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf)
 
-📄 [Download PDF](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf)  
 This version (v1.1) introduces a conceptual clarification of the term "Imperium" in the introduction without changes to the model, equation, or overall argumentation.
 
 ## Releases
@@ -34,9 +35,9 @@ This version (v1.1) introduces a conceptual clarification of the term "Imperium"
     tahsinoglou-imperium-stability-model-2026.pdf
 ```
 
-* /paper/src contains the LaTeX source files
-* /paper/pdf contains the compiled working paper
-* citation.bib provides a ready-to-use citation entry
+- /paper/src contains the LaTeX source files
+- /paper/pdf contains the compiled working paper
+- citation.bib provides a ready-to-use citation entry
 
 ## Abstract
 
@@ -76,6 +77,6 @@ You are free to share and adapt the material with appropriate attribution.
 
 ## Notes
 
-* This repository contains the first working paper introducing the Imperium Stability Model (ISM).
-* The model is presented at a conceptual level and is not yet operationalized.
-* Further theoretical and empirical development is intended in subsequent work.
+- This repository contains the first working paper introducing the Imperium Stability Model (ISM).
+- The model is presented at a conceptual level and is not yet operationalized.
+- Further theoretical and empirical development is intended in subsequent work.
