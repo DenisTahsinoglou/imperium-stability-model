@@ -5,9 +5,10 @@ authors:
   - family-names: "Tahsinoglou"
     given-names: "Denis"
 date-released: 2026-03-26
-version: "1.0.0"
+version: "v1.1"
 type: "article"
 abstract: "This paper introduces a unified analytical model of system performance under complexity and uncertainty, referred to as the Imperium Stability Model (ISM). It integrates value-generating and constraining factors, including operational units, reputation, synergy, execution, structural complexity, and uncertainty, into a single analytical structure."
+doi: 10.5281/zenodo.19253728
 keywords:
   - systems theory
   - complexity

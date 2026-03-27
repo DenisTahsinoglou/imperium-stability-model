@@ -8,8 +8,10 @@ A conceptual model of system performance under complexity and uncertainty.
 Denis Tahsinoglou - Independent Researcher  
 March 26, 2026
 
-📄 [Download Working Paper (PDF)](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf)  
-This version (v1.1) includes a conceptual clarification of the term “Imperium” in the introduction without changing the model, equation, or core argumentation.
+DOI: https://doi.org/10.5281/zenodo.19253728
+
+📄 [Download PDF](https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf)  
+This version (v1.1) introduces a conceptual clarification of the term "Imperium" in the introduction without changes to the model, equation, or overall argumentation.
 
 ## Releases
 
@@ -60,7 +62,8 @@ If you use this work, please cite:
   year         = {2026},
   month        = mar,
   note         = {Working paper, Version 1.1, March 26, 2026},
-  url          = {https://github.com/DenisTahsinoglou/imperium-stability-model/releases/download/v1.1/tahsinoglou-imperium-stability-model-2026.pdf}
+  doi          = {10.5281/zenodo.19253728},
+  url          = {https://doi.org/10.5281/zenodo.19253728}
 }
 ```
 
